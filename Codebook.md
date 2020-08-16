@@ -1,9 +1,9 @@
-#CODEBOOK
+# CODEBOOK
 
 This file describes the variables, the data, and any transformations or work that was performed to clean up the data.
 The final result is in the file `Final_Dataframe.txt`
 
-##Variable Names:
+## Variable Names:
 1. `features` - reads the `features.txt` file
 2. `activities` - reads the `activity_labels.txt` file  
 3. `sub_test` - reads the `subject_test.txt` file  
